@@ -1,0 +1,12 @@
+.panel-body{
+	border: solid; 2px;
+	padding-top: 0;
+}
+.userSection{
+	padding-top: 0;
+}
+
+.bottonHover:hover {
+	text-align: center;
+	background-color: #7FFF00;
+}
